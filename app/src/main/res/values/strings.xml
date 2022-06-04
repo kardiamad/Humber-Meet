@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MeetHumber</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_string">Welcome to MeetHumber App</string>
+    <string name="full_name"> <u>Full Name</u> </string>
+    <string name="phone"><u>Phone</u></string>
+    <string name="email"><u>Email</u></string>
+    <string name="intro_text">Welcome to MeetHumber where you can collaborate with other Humber students.\n\nYou can meet others in <i>Chat</i> section and share documents under <i>Communities</i> Section.\nHave fun!</string>
+    <string name="visit_humber"><u>Visit Humber College Website</u></string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
